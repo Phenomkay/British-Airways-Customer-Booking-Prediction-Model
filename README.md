@@ -58,6 +58,7 @@ The model achieved **90% accuracy**, and the classification report showed balanc
 
 [c_matrix.png
 ](https://github.com/Phenomkay/British-Airways-Customer-Booking-Prediction-Model/blob/227875dfb78ea7f9d136dbe7a9932374f6267154/c_matrix.png)
+
 The confusion matrix was visualized using a heatmap, providing insights into the true positive, true negative, false positive, and false negative rates.
 
 ### Cross-Validation
